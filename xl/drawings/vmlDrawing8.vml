@@ -1,0 +1,69 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel">
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="9"/>
+ </o:shapelayout><v:shapetype id="_x0000_t201" coordsize="21600,21600" o:spt="201"
+  path="m,l,21600r21600,l21600,xe">
+  <v:stroke joinstyle="miter"/>
+  <v:path shadowok="f" o:extrusionok="f" strokeok="f" fillok="f" o:connecttype="rect"/>
+  <o:lock v:ext="edit" shapetype="t"/>
+ </v:shapetype><v:shape id="CB_EnableS" o:spid="_x0000_s9217" type="#_x0000_t201"
+  style='position:absolute;margin-left:3.75pt;margin-top:131.25pt;width:108.75pt;
+  height:18.75pt;z-index:1;mso-wrap-style:tight' stroked="f" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:imagedata o:relid="rId1" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    0, 5, 9, 4, 0, 150, 10, 5</x:Anchor>
+   <x:DefaultSize/>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:MapOCX/>
+  </x:ClientData>
+ </v:shape><v:shape id="CB_Fixed" o:spid="_x0000_s9218" type="#_x0000_t201"
+  style='position:absolute;margin-left:3.75pt;margin-top:147pt;width:102pt;
+  height:18.75pt;z-index:2;mso-wrap-style:tight' stroked="f" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:imagedata o:relid="rId2" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    0, 5, 10, 1, 0, 141, 11, 2</x:Anchor>
+   <x:DefaultSize/>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:MapOCX/>
+  </x:ClientData>
+ </v:shape><v:shape id="CB_TnM" o:spid="_x0000_s9219" type="#_x0000_t201"
+  style='position:absolute;margin-left:3.75pt;margin-top:162.75pt;width:126pt;
+  height:18.75pt;z-index:3;mso-wrap-style:tight' stroked="f" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:imagedata o:relid="rId3" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    0, 5, 10, 22, 0, 173, 11, 23</x:Anchor>
+   <x:DefaultSize/>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:AutoPict/>
+   <x:MapOCX/>
+  </x:ClientData>
+ </v:shape><v:shape id="CB_Subc_TA" o:spid="_x0000_s9220" type="#_x0000_t201"
+  style='position:absolute;margin-left:3.75pt;margin-top:178.5pt;width:104.25pt;
+  height:18.75pt;z-index:4;mso-wrap-style:tight' stroked="f" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:imagedata o:relid="rId4" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    0, 5, 11, 19, 0, 144, 12, 20</x:Anchor>
+   <x:DefaultSize/>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:AutoPict/>
+   <x:MapOCX/>
+  </x:ClientData>
+ </v:shape></xml>

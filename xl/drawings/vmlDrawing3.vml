@@ -1,0 +1,48 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel">
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="2"/>
+ </o:shapelayout><v:shapetype id="_x0000_t201" coordsize="21600,21600" o:spt="201"
+  path="m,l,21600r21600,l21600,xe">
+  <v:stroke joinstyle="miter"/>
+  <v:path shadowok="f" o:extrusionok="f" strokeok="f" fillok="f" o:connecttype="rect"/>
+  <o:lock v:ext="edit" shapetype="t"/>
+ </v:shapetype><v:shape id="CB_Invoicing" o:spid="_x0000_s2049" type="#_x0000_t201"
+  style='position:absolute;margin-left:294.75pt;margin-top:.75pt;width:138pt;
+  height:30.75pt;z-index:1' stroked="f" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:imagedata o:relid="rId1" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    5, 1, 0, 1, 6, 0, 2, 0</x:Anchor>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:AutoPict/>
+   <x:MapOCX/>
+  </x:ClientData>
+ </v:shape><v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202"
+  path="m,l,21600r21600,l21600,xe">
+  <v:stroke joinstyle="miter"/>
+  <v:path gradientshapeok="t" o:connecttype="rect"/>
+ </v:shapetype><v:shape id="_x0000_s2050" type="#_x0000_t202" style='position:absolute;
+  margin-left:249.75pt;margin-top:24pt;width:108pt;height:59.25pt;z-index:2;
+  visibility:hidden' fillcolor="#ffffe1" o:insetmode="auto">
+  <v:fill color2="#ffffe1"/>
+  <v:shadow color="black" obscured="t"/>
+  <v:path o:connecttype="none"/>
+  <v:textbox style='mso-direction-alt:auto'>
+   <div style='text-align:left'></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Note">
+   <x:MoveWithCells/>
+   <x:SizeWithCells/>
+   <x:Anchor>
+    3, 53, 1, 11, 5, 85, 5, 6</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:Row>2</x:Row>
+   <x:Column>1</x:Column>
+   <x:ColHidden/>
+  </x:ClientData>
+ </v:shape></xml>
