@@ -9,7 +9,7 @@
   <v:path shadowok="f" o:extrusionok="f" strokeok="f" fillok="f" o:connecttype="rect"/>
   <o:lock v:ext="edit" shapetype="t"/>
  </v:shapetype><v:shape id="CB_Invoicing" o:spid="_x0000_s2049" type="#_x0000_t201"
-  style='position:absolute;margin-left:294.75pt;margin-top:.75pt;width:138pt;
+  style='position:absolute;margin-left:297pt;margin-top:.75pt;width:138pt;
   height:30.75pt;z-index:1' stroked="f" strokecolor="windowText [64]"
   o:insetmode="auto">
   <v:imagedata o:relid="rId1" o:title=""/>
@@ -27,7 +27,7 @@
   <v:stroke joinstyle="miter"/>
   <v:path gradientshapeok="t" o:connecttype="rect"/>
  </v:shapetype><v:shape id="_x0000_s2050" type="#_x0000_t202" style='position:absolute;
-  margin-left:249.75pt;margin-top:24pt;width:108pt;height:59.25pt;z-index:2;
+  margin-left:248.25pt;margin-top:21.75pt;width:108pt;height:60pt;z-index:2;
   visibility:hidden' fillcolor="#ffffe1" o:insetmode="auto">
   <v:fill color2="#ffffe1"/>
   <v:shadow color="black" obscured="t"/>
@@ -39,7 +39,7 @@
    <x:MoveWithCells/>
    <x:SizeWithCells/>
    <x:Anchor>
-    3, 53, 1, 11, 5, 85, 5, 6</x:Anchor>
+    3, 51, 1, 8, 5, 80, 5, 4</x:Anchor>
    <x:AutoFill>False</x:AutoFill>
    <x:Row>2</x:Row>
    <x:Column>1</x:Column>

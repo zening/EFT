@@ -10,7 +10,7 @@
   <o:lock v:ext="edit" shapetype="t"/>
  </v:shapetype><v:shape id="CB_TAHide" o:spid="_x0000_s7170" type="#_x0000_t201"
   style='position:absolute;margin-left:962.25pt;margin-top:312.75pt;width:62.25pt;
-  height:27.75pt;z-index:1;visibility:hidden;mso-wrap-style:tight' stroked="f"
+  height:27.75pt;z-index:1;visibility:visible;mso-wrap-style:tight' stroked="f"
   strokecolor="windowText [64]" o:insetmode="auto">
   <v:imagedata o:relid="rId1" o:title=""/>
   <x:ClientData ObjectType="Pict">
@@ -74,7 +74,7 @@
   <x:ClientData ObjectType="Pict">
    <x:SizeWithCells/>
    <x:Anchor>
-    0, 1, 21, 3, 1, 0, 23, 1</x:Anchor>
+    0, 1, 21, 3, 1, 0, 24, 1</x:Anchor>
    <x:DefaultSize/>
    <x:AutoLine>False</x:AutoLine>
    <x:CF>Pict</x:CF>

@@ -69,14 +69,14 @@
    <x:MapOCX/>
   </x:ClientData>
  </v:shape><v:shape id="CB_AddSupplier" o:spid="_x0000_s8198" type="#_x0000_t201"
-  style='position:absolute;margin-left:581.25pt;margin-top:17.25pt;width:98.25pt;
+  style='position:absolute;margin-left:583.5pt;margin-top:17.25pt;width:98.25pt;
   height:30pt;z-index:5;mso-wrap-style:tight' stroked="f" strokecolor="windowText [64]"
   o:insetmode="auto">
   <v:imagedata o:relid="rId5" o:title=""/>
   <x:ClientData ObjectType="Pict">
    <x:SizeWithCells/>
    <x:Anchor>
-    5, 13, 1, 2, 6, 2, 3, 0</x:Anchor>
+    5, 13, 1, 2, 5, 144, 3, 0</x:Anchor>
    <x:DefaultSize/>
    <x:AutoLine>False</x:AutoLine>
    <x:CF>Pict</x:CF>
@@ -84,7 +84,7 @@
    <x:MapOCX/>
   </x:ClientData>
  </v:shape><v:shape id="CB_CutSupplier" o:spid="_x0000_s8199" type="#_x0000_t201"
-  style='position:absolute;margin-left:681pt;margin-top:17.25pt;width:102pt;
+  style='position:absolute;margin-left:685.5pt;margin-top:17.25pt;width:102pt;
   height:30pt;z-index:6;mso-wrap-style:tight' stroked="f" strokecolor="windowText [64]"
   o:insetmode="auto">
   <v:imagedata o:relid="rId6" o:title=""/>
